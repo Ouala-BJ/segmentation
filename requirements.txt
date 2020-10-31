@@ -1,6 +1,6 @@
 
 
-cv2 == 4.4.0.44
+opencv==3.1
 sklearn.cluster == 0.21.2
 skimage  == 0.15.0
 matplotlib == 3.1.0
